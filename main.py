@@ -27,9 +27,9 @@ Tiberius = "TBcAA87Dw9PhPyARtmMq"
 Gruff = "s4cuAbUrEz6av0dOGY2i"
 Thomas = "iGwp309gJqQYefiiosaf"
 
-CHUNK_SIZE = 1024
 url = "https://api.elevenlabs.io/v1/text-to-speech/"+Tiberius
 
+CHUNK_SIZE = 1024
 
 for i in range(len(textchunks)):
 

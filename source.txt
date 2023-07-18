@@ -1,0 +1,11 @@
+Here are some key criteria for creating a new philosophical razor:
+
+- It should provide a general principle or rule of thumb for making decisions between competing hypotheses or explanations. The razor helps cut away unnecessary assumptions.
+
+- It should be expressed succinctly in a short phrase that is easy to remember and apply. Many well-known razors are only a few words long.
+
+- The principle should be broadly applicable across many domains of philosophy and critical thinking. It transcends specific debates and can be widely utilized.
+
+- A razor should eliminate improbable, needlessly complex, or unsupported explanations in favor of simpler, more probable ones. It favors parsimony and Occam's Razor.
+
+- The principle should have some basis in reason, logic, empiricism, or probability theory to justify its use. There should be an argument for why the simpler explanation is more likely to be true.
